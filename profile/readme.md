@@ -1,7 +1,5 @@
 # NextUp Comedy
 
-[Sprint Planning](https://www.notion.so/Sprint-Planning-248a8f2cc95c4d788f3da784ac0b69c1)
-
 ## Super Admin, Admin, **VENUE, PROMOTER, AGENT,  COMEDIAN**
 
 ### **SUPER ADMIN**
